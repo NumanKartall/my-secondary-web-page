@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my new is page 2</title>
+</head>
+
+<body
+    style="background-color: rgb(221, 203, 255); font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; ">
+    <h1 id="numan" style="text-align: center; font-weight:700; font-size:40px;">Numan Kartal <br> Beginner Front End
+        Developer</h1>
+
+    <hr>
+    <div style="text-align:left;">
+        <h2 style="color:darkred; ">Hakkımda:</h2>
+        <p>Merhabalar ben Numan Kartal Antalya'da yaşıyorum 21 yaşındayım Kütahya Dumlupınar Üniversitesi PC
+            programcılığı
+            bölümü mezunuyum. <br> Bilgisayar oyunları oynamayı kendimi geliştirmeyi araştırmayı tasarlamayı kısaca
+            bilgisayarla
+            alakalı herşeyi seviyorum. <br>
+            Sosyal hayatımda ise gezmekle, kitap okumakla, kedimle oynamakla geçiyor.Kodluyoruz eğitimlerinden Front End
+            eğitimini almaya başladım ve çok eğlenceli ve dolu dolu geçiyor umarım güzel şeyler çıkartırım şimdilik bu
+            kadar...
+        </p>
+    </div><br>
+
+    <div>
+        <h2 style="color: darkred;">Sevdiğim oyunlar:</h2>
+
+        <ul style="margin:20px;" type="none">
+            <li><b> League of Legends</b></li><br>
+            <a
+                href="https://signup.leagueoflegends.com/tr-tr/signup/index?gclid=CjwKCAjwx7GYBhB7EiwA0d8oex1cx0vV_-oPrku-bJqHk_pkh3TmNCGUV-jsXoRysyzVz8cGb1q1PRoC3_QQAvD_BwE&gclsrc=aw.ds#/"><img
+                    style="border-radius: 5px;" width="500px"
+                    src="https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LeagueofLegends_RiotGames_S1_2560x1440-ee500721c06da3ec1e5535a88588c77f"
+                    title="İndirmek için tıklayınız" alt=""><br></a>
+            <p>Yaygın olarak League olarak adlandırılan League of Legends ( LoL ), Riot Games tarafından geliştirilen ve
+                yayınlanan 2009 çok oyunculu çevrimiçi savaş arenası video oyunudur.</p><br>
+            <hr>
+            <li> <b> Call of Duty Series</b></li><br>
+            <a href="https://www.callofduty.com/"> <img style="border-radius: 5px;" width="500px"
+                    src="https://world-wire.com/wp-content/uploads/2020/10/start-2-990x557.jpg"
+                    title="İndirmek için tıklayınız" alt=""><br></a>
+            <p>Call of duty oyunu Call of Duty, birinci şahıs nişancı türü aksiyon oyunları serisidir.En sevdiğim ve
+                zevkle oynadığım serilerden bir tanesidir.</p><br>
+            <hr>
+            <li><b>CS-GO</b></li><br>
+            <a href="https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/"><img
+                    style="border-radius: 5px;" width="500px"
+                    src="https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_616x353.jpg?t=1641233427"
+                    title="İndirmek için tıklayınız" alt=""></a>
+            <p>Counter-Strike: Global Offensive ya da bilinen kısa adıyla CS:GO, Valve ve Hidden Path Entertainment
+                tarafından geliştirilen çevrimiçi birinci şahıs nişancı oyunudur. <br> Çocukluğumun oyunu diyebilirim
+                her çıkan versiyonunu "1.5" "1.6" ve bir diğer oyunu olan "Half-Life" oyununu da oynamışlığım var.</p>
+            <hr><br>
+        </ul>
+    </div>
+
+    <a style="text-decoration: none; text-align:center; color:purple;" href="#numan">
+        <h4>Yukarı çıkmak için tıklayın.</h4>
+    </a>
+</body>
+
+</html>
