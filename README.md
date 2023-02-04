@@ -1,2 +1,2 @@
-## My Secondary Web Page on HTML
+## Secondary Web Page on HTML
 
